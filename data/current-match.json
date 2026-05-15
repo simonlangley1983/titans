@@ -3,7 +3,7 @@
     "status": "full-time",
     "statusLabel": "Full time",
     "period": "full-time",
-    "minute": 60,
+    "minute": 20,
     "fixture": {
         "date": "2026-05-16",
         "displayDate": "Sat 16 May",
@@ -24,6 +24,16 @@
             "shortName": "Sale Utd Titans"
         }
     },
-    "events": [],
-    "lastUpdated": "2026-05-15T21:43:45+00:00"
+    "events": [
+        {
+            "id": "goal-1778881437",
+            "type": "goal",
+            "minute": 20,
+            "period": "full-time",
+            "team": "away",
+            "scorer": "Eric",
+            "assist": ""
+        }
+    ],
+    "lastUpdated": "2026-05-15T21:43:57+00:00"
 }
