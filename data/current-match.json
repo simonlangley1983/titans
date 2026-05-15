@@ -24,16 +24,6 @@
             "shortName": "Sale Utd Titans"
         }
     },
-    "events": [
-        {
-            "id": "goal-1778882388",
-            "type": "goal",
-            "minute": 14,
-            "period": "full-time",
-            "team": "away",
-            "scorer": "Eric",
-            "assist": "Wilf"
-        }
-    ],
-    "lastUpdated": "2026-05-15T21:59:48+00:00"
+    "events": [],
+    "lastUpdated": "2026-05-15T22:00:17+00:00"
 }
