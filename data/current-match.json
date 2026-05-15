@@ -1,49 +1,37 @@
 {
-    "matchId": "2026-05-16-wythenshawe-v-sale-united-u12-titans",
-    "status": "live",
-    "statusLabel": "Live - 1st half",
-    "period": "first-half",
-    "minute": 42,
-    "fixture": {
-        "date": "2026-05-16",
-        "displayDate": "Sat 16 May",
-        "kickoff": "10:45",
-        "competition": "U12 Friendly Match",
-        "venue": "Manchester Enterprise Academy",
-        "address": "Simonsway, Manchester, M22 9RH",
-        "pitchType": "3G Astroturf",
-        "halvesMinutes": 30
+  "matchId": "2026-05-16-wythenshawe-v-sale-united-u12-titans",
+
+  "status": "scheduled",
+  "statusLabel": "Not started",
+  "period": "pre-match",
+  "minute": null,
+
+  "fixture": {
+    "date": "2026-05-16",
+    "displayDate": "Sat 16 May",
+    "kickoff": "10:45",
+    "competition": "U12 Friendly Match",
+    "venue": "Manchester Enterprise Academy",
+    "address": "Simonsway, Manchester, M22 9RH",
+    "pitchType": "3G Astroturf",
+    "halvesMinutes": 30
+  },
+
+  "teams": {
+    "home": {
+      "name": "Wythenshawe Leopards",
+      "shortName": "Wythenshawe Leopards"
     },
-    "teams": {
-        "home": {
-            "name": "Wythenshawe Leopards",
-            "shortName": "Wythenshawe Leopards"
-        },
-        "away": {
-            "name": "Sale Utd Titans",
-            "shortName": "Sale Utd Titans"
-        }
-    },
-    "events": [
-        {
-            "id": "goal-1778883448",
-            "type": "goal",
-            "minute": 10,
-            "period": "first-half",
-            "team": "away",
-            "scorer": "Eric",
-            "assist": "George"
-        },
-        {
-            "id": "goal-1778883460",
-            "type": "goal",
-            "minute": 42,
-            "period": "first-half",
-            "team": "home",
-            "scorer": "Opponent",
-            "assist": ""
-        }
-    ],
-    "playerOfTheMatch": "Wilf",
-    "lastUpdated": "2026-05-15T22:17:40+00:00"
+
+    "away": {
+      "name": "Sale Utd Titans",
+      "shortName": "Sale Utd Titans"
+    }
+  },
+
+  "events": [],
+
+  "playerOfTheMatch": "",
+
+  "lastUpdated": "2026-05-15T22:00:00Z"
 }
