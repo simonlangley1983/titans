@@ -1,38 +1,31 @@
 {
-  "matchId": "2026-05-16-wythenshawe-v-sale-united-u12-titans",
-
-  "status": "scheduled",
-  "statusLabel": "Not started",
-  "period": "pre-match",
-  "minute": null,
-
-  "fixture": {
-    "date": "2026-05-16",
-    "displayDate": "Sat 16 May",
-    "kickoff": "10:45",
-    "meetTime": "10:15",
-    "competition": "League",
-    "venue": "Manchester Enterprise Academy",
-    "address": "Simonsway, Manchester, M22 9RH",
-    "pitchType": "3G Astroturf",
-    "halvesMinutes": 30
-  },
-
-  "teams": {
-    "home": {
-      "name": "Wythenshawe Leopards",
-      "shortName": "Wythenshawe Leopards"
+    "matchId": "2026-05-16-wythenshawe-v-sale-united-u12-titans",
+    "status": "scheduled",
+    "statusLabel": "Not started",
+    "period": "pre-match",
+    "minute": null,
+    "fixture": {
+        "date": "2026-05-16",
+        "displayDate": "Sat 16 May",
+        "kickoff": "10:45",
+        "meetTime": "10:15",
+        "competition": "League",
+        "venue": "Manchester Enterprise Academy",
+        "address": "Simonsway, Manchester, M22 9RH",
+        "pitchType": "3G Astroturf",
+        "halvesMinutes": 30
     },
-
-    "away": {
-      "name": "Sale Utd Titans",
-      "shortName": "Sale Utd Titans"
-    }
-  },
-
-  "events": [],
-
-  "playerOfTheMatch": "",
-
-  "lastUpdated": "2026-05-15T22:00:00Z"
+    "teams": {
+        "home": {
+            "name": "Wythenshawe Leopards",
+            "shortName": "Wythenshawe Leopards"
+        },
+        "away": {
+            "name": "Sale Utd Titans",
+            "shortName": "Sale Utd Titans"
+        }
+    },
+    "events": [],
+    "playerOfTheMatch": "",
+    "lastUpdated": "2026-05-15T22:32:00+00:00"
 }
