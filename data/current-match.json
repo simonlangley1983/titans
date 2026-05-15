@@ -3,7 +3,7 @@
     "status": "full-time",
     "statusLabel": "Full time",
     "period": "full-time",
-    "minute": 14,
+    "minute": 60,
     "fixture": {
         "date": "2026-05-16",
         "displayDate": "Sat 16 May",
@@ -25,5 +25,5 @@
         }
     },
     "events": [],
-    "lastUpdated": "2026-05-15T22:00:17+00:00"
+    "lastUpdated": "2026-05-15T22:00:24+00:00"
 }
