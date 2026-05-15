@@ -1,0 +1,14 @@
+{
+  "appName": "Sale United U12 Titans Match Centre",
+  "teamName": "Sale United U12 Titans",
+  "season": "2025/26",
+  "currentMatchUrl": "data/current-match.json",
+  "playersUrl": "data/players.json",
+  "refreshSeconds": 10,
+  "theme": {
+    "primary": "#ffd230",
+    "dark": "#111111",
+    "panel": "#1f1f1f",
+    "text": "#ffffff"
+  }
+}
