@@ -16,34 +16,14 @@
   },
   "teams": {
     "home": {
-      "name": "Wythenshawe Football Club U12",
-      "shortName": "Wythenshawe U12"
+      "name": "Wythenshawe Football Club U12 Leopards",
+      "shortName": "Wythenshawe Leopards"
     },
     "away": {
       "name": "Sale United U12 Titans",
-      "shortName": "Sale United Titans"
+      "shortName": "Sale Utd Titans"
     }
   },
-  "events": [
-    {
-      "id": "sample-goal-001",
-      "type": "goal",
-      "minute": 12,
-      "period": "first-half",
-      "team": "away",
-      "scorer": "Wilf Langley",
-      "assist": "Harry Smith",
-      "note": "Sample event - delete before match day"
-    },
-    {
-      "id": "sample-status-ht",
-      "type": "status",
-      "minute": 30,
-      "period": "half-time",
-      "status": "half-time",
-      "label": "Half time",
-      "note": "Sample status - delete before match day"
-    }
-  ],
+  "events": [],
   "lastUpdated": "2026-05-15T20:00:00Z"
 }
