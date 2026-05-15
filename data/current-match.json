@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 1st half",
     "period": "first-half",
-    "minute": 1,
+    "minute": 5,
     "fixture": {
         "date": "2026-05-16",
         "displayDate": "Sat 16 May",
@@ -24,7 +24,17 @@
             "shortName": "Sale Utd Titans"
         }
     },
-    "events": [],
+    "events": [
+        {
+            "id": "goal-1778883271",
+            "type": "goal",
+            "minute": 5,
+            "period": "first-half",
+            "team": "away",
+            "scorer": "Eric",
+            "assist": "Wilf"
+        }
+    ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-15T22:11:12+00:00"
+    "lastUpdated": "2026-05-15T22:14:31+00:00"
 }
