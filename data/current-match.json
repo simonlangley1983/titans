@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 1st half",
     "period": "first-half",
-    "minute": 12,
+    "minute": 15,
     "fixture": {
         "date": "2026-05-16",
         "displayDate": "Sat 16 May",
@@ -34,8 +34,17 @@
             "team": "home",
             "scorer": "Opponent",
             "assist": ""
+        },
+        {
+            "id": "goal-1778926251",
+            "type": "goal",
+            "minute": 15,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Opponent",
+            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-16T10:07:57+00:00"
+    "lastUpdated": "2026-05-16T10:10:51+00:00"
 }
