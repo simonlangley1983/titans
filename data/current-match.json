@@ -60,7 +60,7 @@
             "period": "second-half",
             "team": "away",
             "scorer": "George",
-            "assist": "Raheem"
+            "assist": "Racim"
         },
         {
             "id": "goal-1778928350",
@@ -68,7 +68,7 @@
             "minute": 42,
             "period": "second-half",
             "team": "away",
-            "scorer": "Raheem",
+            "scorer": "Racim",
             "assist": "Eric"
         },
         {
@@ -78,9 +78,9 @@
             "period": "second-half",
             "team": "away",
             "scorer": "Jay",
-            "assist": "Raheem"
+            "assist": "Racim"
         }
     ],
-    "playerOfTheMatch": "Raheem",
+    "playerOfTheMatch": "Racim",
     "lastUpdated": "2026-05-16T11:02:00+00:00"
 }
