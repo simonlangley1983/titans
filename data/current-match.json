@@ -1,9 +1,9 @@
 {
     "matchId": "2026-05-16-wythenshawe-v-sale-united-u12-titans",
-    "status": "live",
-    "statusLabel": "Live - 1st half",
-    "period": "first-half",
-    "minute": 25,
+    "status": "half-time",
+    "statusLabel": "Half time",
+    "period": "half-time",
+    "minute": 30,
     "fixture": {
         "date": "2026-05-16",
         "displayDate": "Sat 16 May",
@@ -55,5 +55,5 @@
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-16T10:26:59+00:00"
+    "lastUpdated": "2026-05-16T10:28:38+00:00"
 }
