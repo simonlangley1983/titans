@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 1st half",
     "period": "first-half",
-    "minute": 1,
+    "minute": 12,
     "fixture": {
         "date": "2026-05-16",
         "displayDate": "Sat 16 May",
@@ -25,7 +25,17 @@
             "shortName": "Sale Utd Titans"
         }
     },
-    "events": [],
+    "events": [
+        {
+            "id": "goal-1778926077",
+            "type": "goal",
+            "minute": 12,
+            "period": "first-half",
+            "team": "home",
+            "scorer": "Opponent",
+            "assist": ""
+        }
+    ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-16T09:56:27+00:00"
+    "lastUpdated": "2026-05-16T10:07:57+00:00"
 }
