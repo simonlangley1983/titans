@@ -3,7 +3,7 @@
     "status": "live",
     "statusLabel": "Live - 2nd half",
     "period": "second-half",
-    "minute": 42,
+    "minute": 50,
     "fixture": {
         "date": "2026-05-16",
         "displayDate": "Sat 16 May",
@@ -70,8 +70,17 @@
             "team": "away",
             "scorer": "Raheem",
             "assist": "Eric"
+        },
+        {
+            "id": "goal-1778928707",
+            "type": "goal",
+            "minute": 50,
+            "period": "second-half",
+            "team": "away",
+            "scorer": "Jay",
+            "assist": "Raheem"
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-16T10:45:50+00:00"
+    "lastUpdated": "2026-05-16T10:51:47+00:00"
 }
