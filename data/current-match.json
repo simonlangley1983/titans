@@ -43,17 +43,8 @@
             "team": "home",
             "scorer": "Opponent",
             "assist": ""
-        },
-        {
-            "id": "goal-1778926282",
-            "type": "goal",
-            "minute": 15,
-            "period": "first-half",
-            "team": "home",
-            "scorer": "Opponent",
-            "assist": ""
         }
     ],
     "playerOfTheMatch": "",
-    "lastUpdated": "2026-05-16T10:11:22+00:00"
+    "lastUpdated": "2026-05-16T10:11:30+00:00"
 }
